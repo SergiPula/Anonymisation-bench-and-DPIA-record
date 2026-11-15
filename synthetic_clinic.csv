@@ -1,0 +1,9 @@
+patient_id,patient_name,postcode,date_of_birth,sex,diagnosis,stay_days
+P-1001,Alex Morgan,SW1A 1AA,1981-03-14,F,Type 2 diabetes mellitus,3
+P-1002,Jamie Okonkwo,SW1A 2BB,1981-11-02,F,Type 2 diabetes mellitus,5
+P-1003,Samir Haddad,SW1A 3CC,1981-07-19,F,Essential hypertension,2
+P-1004,Riley Chen,E1 6AN,1974-01-09,M,Asthma,4
+P-1005,Noah Berg,E1 7PQ,1974-08-22,M,Asthma,6
+P-1006,Quinn Alvarez,E1 1XY,1974-12-30,M,Community-acquired pneumonia,1
+P-1007,Taylor Ibrahim,M1 2WD,1990-05-17,F,Migraine,2
+P-1008,Casey Novak,AB10 1XQ,1962-02-28,M,Osteoarthritis of the knee,8
