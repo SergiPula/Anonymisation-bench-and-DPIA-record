@@ -1,0 +1,41 @@
+employee_id,employee_name,postcode,date_of_birth,sex,diagnosis,tenure_years,department
+E-2000,Riley A Patel,EC1A 1BB,1972-01-01,F,Back pain,0,Finance
+E-2001,Noah A Dubois,EC1A 2CC,1975-02-02,M,Migraine,3,Operations
+E-2002,Quinn A Nilsen,EC1A 4DD,1978-03-03,F,Asthma,6,Research
+E-2003,Taylor A Vogel,EC2A 1AA,1981-04-04,M,Anxiety,9,Estates
+E-2004,Casey A Ferreira,EC2A 3EE,1984-05-05,F,Back pain,12,Finance
+E-2005,Robin A Kim,BS1 4ST,1987-06-06,M,Back pain,15,Operations
+E-2006,Avery A Kowalski,BS1 5PQ,1990-07-07,F,Migraine,18,Research
+E-2007,Jordan A Murphy,BS1 6RR,1993-08-08,M,Asthma,21,Estates
+E-2008,Morgan A Santos,G1 1AA,1972-09-09,F,Anxiety,2,Finance
+E-2009,Rowan A Mensah,G1 2BB,1975-10-10,M,Back pain,5,Operations
+E-2010,Sky A Adler,CF10 1EP,1978-11-11,F,Back pain,8,Research
+E-2011,Eden A Chen,CF10 2HQ,1981-12-12,M,Migraine,11,Estates
+E-2012,Reese A Ibrahim,LS1 4AP,1984-01-13,F,Asthma,14,Finance
+E-2013,Kai A Khan,M1 2WD,1987-02-14,M,Anxiety,17,Operations
+E-2014,Nico A Silva,EC1A 1BB,1990-03-15,F,Back pain,20,Research
+E-2015,Remy A Horvat,EC1A 2CC,1993-04-16,M,Back pain,1,Estates
+E-2016,Shay A Keller,EC1A 4DD,1972-05-17,F,Migraine,4,Finance
+E-2017,Ari A Lind,EC2A 1AA,1975-06-18,M,Asthma,7,Operations
+E-2018,Blair A Sato,EC2A 3EE,1978-07-19,F,Anxiety,10,Research
+E-2019,Drew A Diallo,BS1 4ST,1981-08-20,M,Back pain,13,Estates
+E-2020,Emery A Larsen,BS1 5PQ,1984-09-21,F,Back pain,16,Finance
+E-2021,Finley A Rahman,BS1 6RR,1987-10-22,M,Migraine,19,Operations
+E-2022,Gray A Okada,G1 1AA,1990-11-23,F,Asthma,0,Research
+E-2023,Harper A Marin,G1 2BB,1993-12-24,M,Anxiety,3,Estates
+E-2024,Indigo A Haddad,CF10 1EP,1972-01-25,F,Back pain,6,Finance
+E-2025,Jules A Alvarez,CF10 2HQ,1975-02-26,M,Back pain,9,Operations
+E-2026,Kit A Ellis,LS1 4AP,1978-03-27,F,Migraine,12,Research
+E-2027,Lane A Rossi,M1 2WD,1981-04-01,M,Asthma,15,Estates
+E-2028,Marlow A Nowak,EC1A 1BB,1984-05-02,F,Anxiety,18,Finance
+E-2029,Noel A Costa,EC1A 2CC,1987-06-03,M,Back pain,21,Operations
+E-2030,Oakley A Moreau,EC1A 4DD,1990-07-04,F,Back pain,2,Research
+E-2031,Parker A Adebayo,EC2A 1AA,1993-08-05,M,Migraine,5,Estates
+E-2032,River A Nguyen,EC2A 3EE,1972-09-06,F,Asthma,8,Finance
+E-2033,Sage A Petrov,BS1 4ST,1975-10-07,M,Anxiety,11,Operations
+E-2034,Tatum A Osei,BS1 5PQ,1978-11-08,F,Back pain,14,Research
+E-2035,Val A Bennett,BS1 6RR,1981-12-09,M,Back pain,17,Estates
+E-2036,Wynn A Iversen,G1 1AA,1984-01-10,F,Migraine,20,Finance
+E-2037,Alex B Okonkwo,G1 2BB,1987-02-11,M,Asthma,1,Operations
+E-2038,Jamie B Berg,CF10 1EP,1990-03-12,F,Anxiety,4,Research
+E-2039,Samir B Novak,CF10 2HQ,1993-04-13,M,Back pain,7,Estates

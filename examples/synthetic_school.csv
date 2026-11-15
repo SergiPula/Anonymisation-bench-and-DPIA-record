@@ -1,0 +1,17 @@
+student_id,student_name,postcode,date_of_birth,sex,health_condition,absence_days
+S-1001,Alex A Okonkwo,SW1A 1AA,2012-03-14,F,Asthma,4
+S-1002,Jamie A Berg,SW1A 2BB,2012-11-02,F,Asthma,6
+S-1003,Samir A Novak,SW1A 3CC,2012-07-19,F,Eczema,2
+S-1004,Riley A Patel,SW1A 4DD,2012-01-09,F,Asthma,8
+S-1005,Noah A Dubois,E1 6AN,2011-08-22,M,Asthma,3
+S-1006,Quinn A Nilsen,E1 7PQ,2011-12-30,M,Asthma,5
+S-1007,Taylor A Vogel,E1 1XY,2011-05-17,M,Asthma,1
+S-1008,Casey A Ferreira,M1 2WD,2014-02-28,F,Eczema,7
+S-1009,Robin A Kim,M1 3AB,2014-06-11,F,Asthma,2
+S-1010,Avery A Kowalski,B1 1AA,2013-04-04,M,Hay fever,3
+S-1011,Jordan A Murphy,B1 2BB,2013-09-21,M,Eczema,4
+S-1012,Morgan A Santos,AB10 1XQ,2010-02-02,F,Asthma,9
+S-1013,Rowan A Mensah,CF10 1EP,2015-10-10,M,Eczema,1
+S-1014,Sky A Adler,BS1 4ST,2009-01-15,F,Hay fever,2
+S-1015,Eden A Chen,G1 1AA,2016-07-07,M,Asthma,6
+S-1016,Reese A Ibrahim,LS1 4AP,2008-11-23,F,Eczema,3
