@@ -1,0 +1,18 @@
+[project]
+name = "anonbench"
+version = "0.1.0"
+description = "Local anonymisation bench and DPIA-style record for a tabular extract."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "pydantic>=2.7",
+    "streamlit>=1.36",
+]
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
